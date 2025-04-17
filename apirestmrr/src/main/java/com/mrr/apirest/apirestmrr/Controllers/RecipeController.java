@@ -52,7 +52,7 @@ public class RecipeController {
         return recipeRepositoy.save(recipe);
      }
 
-     @DeleteMapping("/{id}"){
+     @DeleteMapping("/{id}")
         public String  deleteRecipe(@PathVariable Long id){
             Recipe recipe = recipeRepositoy.findById(id)
             .orElseThrow(() -> new RuntimeException("Recipe with ID: "+ id + " dont found"));
@@ -60,8 +60,6 @@ public class RecipeController {
             recipeRepositoy.delete(recipe);
             return "Recipe with ID: "+ id + " was deleted";
         }
-     }
-
-
+     
 
 }
