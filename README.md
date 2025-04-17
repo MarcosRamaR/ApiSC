@@ -7,8 +7,7 @@ A Java application built with Spring Boot that exposes APIREST for CRUD operatio
 
 
 - `Full CRUD operations`: Create, Read, Update, Delete.
-- `Data persistence`: Using Hibernate JPA.
-
+- `Data persistence`: 
 
 
 ## Used Technologies
