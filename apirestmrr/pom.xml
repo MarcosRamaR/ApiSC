@@ -12,7 +12,7 @@
 	<artifactId>apirestmrr</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>apirestmrr</name>
-	<description>Demo project for Spring Boot</description>
+	<description>API REST with Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
