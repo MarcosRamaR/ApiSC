@@ -1,7 +1,7 @@
 # CRUD in JAVA
 
 ## Project Description
-A Java backend application built with Spring Boot that exposes APIREST for CRUD operations, using Hibernate and PostgreSQL database. The API can be tested using Postman.
+A Java application built with Spring Boot that exposes APIREST for CRUD operations, using Hibernate and PostgreSQL database. The API can be tested using Postman.
 
 ## Functionalities
 
