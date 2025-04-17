@@ -7,7 +7,7 @@ A Java application built with Spring Boot that exposes APIREST for CRUD operatio
 
 
 - `Full CRUD operations`: Create, Read, Update, Delete.
-- `Data persistence`: Display data obtained from the Firebase Realtime Database, which includes the names of the Warframes, a small description and an image.
+- `Data persistence`: Using Hibernate JPA.
 
 
 
