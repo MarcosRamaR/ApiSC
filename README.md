@@ -18,7 +18,6 @@ A Java application built with Spring Boot that exposes APIREST for CRUD operatio
   * Maven </br>
   * Postgresql </br>
   * Docker </br>
-  * DBeaver </br>
   * Postman </br>
   
 ## API Endpoints
